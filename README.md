@@ -1,6 +1,6 @@
 # akillimenum
 
-AkıllıMenumvs
+User login with mysql1 module
 
 ## Getting Started
 
